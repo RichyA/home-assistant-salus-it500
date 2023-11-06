@@ -1,0 +1,12 @@
+{
+  "domain": "salus_it500",
+  "name": "Salus it500",
+  "codeowners": [
+    "@RichyA"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/RichyA/home-assistant-salus-it500",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/RichyA/home-assistant-salus-it500/issues",
+  "version": "0.0.0"
+}
